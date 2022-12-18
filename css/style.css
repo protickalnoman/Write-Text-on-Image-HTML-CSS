@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container .inner{
+    position: absolute;
+    width: 100%;
+    /*background-color: #0009;*/
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    /*border-top: 4px solid white;
+    border-bottom: 4px solid white;*/
+}
+
+.container .inner p{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+
+
+
+
+
